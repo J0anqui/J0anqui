@@ -1,5 +1,6 @@
 ## Hi there 👋
 💻I'm J0anqui, I student Software Enginner
+
 ![Lamadretuya](https://github.com/J0anqui/J0anqui/blob/main/8_bit_city_asus_republic_of_gamers_gif_by_ryukitos_dkodpyb.gif)
 
 <!--
