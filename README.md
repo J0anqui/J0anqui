@@ -1,6 +1,6 @@
 ## Hi there 👋
 💻I'm J0anqui, I student Software Enginner
-![Lamadretuya]()
+![Lamadretuya](https://github.com/J0anqui/J0anqui/blob/main/8_bit_city_asus_republic_of_gamers_gif_by_ryukitos_dkodpyb.gif)
 
 <!--
 **J0anqui/J0anqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
